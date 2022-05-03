@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "207508977829",
+    "project_id": "quickitchenmaroc",
+    "storage_bucket": "quickitchenmaroc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207508977829:android:859c34944b365b60db754c",
+        "android_client_info": {
+          "package_name": "com.quickitchen.ma_userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207508977829-vus9j54i1j91q3qvasg1msnq92veqmm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwh29fT4Rp8iShXrhPQ9wvPfwj9vloMbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207508977829-vus9j54i1j91q3qvasg1msnq92veqmm4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "207508977829-gcein5ab77ml258cr6oqkph00fog8tkp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.quickitchen.ma-userapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
