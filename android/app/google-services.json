@@ -7,12 +7,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:207508977829:android:859c34944b365b60db754c",
+        "mobilesdk_app_id": "1:207508977829:android:a429e7aa849bdfa0db754c",
         "android_client_info": {
           "package_name": "com.quickitchen.ma_userapp"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "207508977829-1ubrda3jfs6hveguqd4d8ohhu676thqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickitchen.ma_userapp",
+            "certificate_hash": "1ee962c6b72d40db4304c0d599df34ba0ec5b1d4"
+          }
+        },
         {
           "client_id": "207508977829-vus9j54i1j91q3qvasg1msnq92veqmm4.apps.googleusercontent.com",
           "client_type": 3
@@ -31,10 +39,11 @@
               "client_type": 3
             },
             {
-              "client_id": "207508977829-gcein5ab77ml258cr6oqkph00fog8tkp.apps.googleusercontent.com",
+              "client_id": "207508977829-0e61f9tocnhjcm7l1dhmgjhn0pu5srmf.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.quickitchen.ma-userapp"
+                "bundle_id": "com.quickitchen.ma-userapp",
+                "app_store_id": "179127"
               }
             }
           ]
